@@ -1,0 +1,10 @@
+# Ignorar la carpeta del libro
+pydata-book/
+
+# Ignora entorno vitual (si está en la carpeta)
+dataScience/
+
+# Archivos temporales
+*.pyc
+__pycache__/
+.ipynb_checpoints/
